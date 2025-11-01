@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "title": "Spring Boot Observability Dashboard",
+    "hits": 0,
+    "description": "Sample dashboard for monitoring Spring Boot application",
+    "panelsJSON": "[{\"panelIndex\":\"1\",\"gridData\":{\"x\":0,\"y\":0,\"w\":24,\"h\":15},\"type\":\"visualization\",\"id\":\"http_response_times\",\"embeddableConfig\":{}},{\"panelIndex\":\"2\",\"gridData\":{\"x\":0,\"y\":15,\"w\":24,\"h\":15},\"type\":\"visualization\",\"id\":\"error_rate\",\"embeddableConfig\":{}}]",
+    "optionsJSON": "{\"useMargins\":true}",
+    "version": 1,
+    "timeRestore": false
+  },
+  "id": "spring-boot-observability-dashboard",
+  "type": "dashboard"
+}
